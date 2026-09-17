@@ -2,7 +2,7 @@
 
 **Status:** Published
 **Author:** Craig Ellrod
-**Date:** [INSERT PUBLICATION DATE]
+**Date:** Sept 17, 2026
 **License:** CC BY-ND 4.0
 
 ## Summary
