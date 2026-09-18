@@ -41,4 +41,4 @@ AgentSight (arXiv:2508.02736, Zheng et al., Aug 2025) correlates an AI agent's s
 
 ## Provenance
 
-This document is timestamped and anchored via Zenodo, DOI [INSERT DOI], as of the publication date above, establishing public priority for the fidelity-at-capture / structural independence distinction independent of and prior to any adoption by third-party standards bodies.
+This document is timestamped and anchored via Zenodo, DOI https://doi.org/10.5281/zenodo.22821380, as of the publication date above.
