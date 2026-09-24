@@ -5,6 +5,11 @@
 **Date:** Sept 17, 2026
 **License:** CC BY-ND 4.0
 
+## Cite as
+
+Ellrod, C. (2026). PP-SPEC-023: Structural Independence and the Fidelity-at-Capture Requirement.
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22821380
+
 ## Summary
 
 Every corroboration model in this industry, including our own five-tier model (Activated, Committed, Witnessed, Analyzed, Sealed), answers the question: once evidence is captured, does it stay intact. None of them answer a different question: was the evidence faithful to begin with, or did the party being evaluated shape what got captured. This spec names that gap and defines the axis that closes it.
