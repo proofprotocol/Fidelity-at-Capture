@@ -7,7 +7,7 @@ authors:
     affiliation: "Nebulonium, Inc. (HACKERverse)"
 version: "1.0"
 date-released: 2026-09-17
-doi: 10.5281/zenodo.22821380
+doi: 10.5281/zenodo.22821379
 license: CC-BY-ND-4.0
 url: "https://proofprotocol.io"
 repository-code: "https://github.com/proofprotocol/Fidelity-at-Capture"
@@ -21,6 +21,6 @@ preferred-citation:
   month: 9
   publisher:
     name: "Proof Economy Standards Alliance (PESA)"
-  doi: 10.5281/zenodo.22821380
+  doi: 10.5281/zenodo.22821379
   url: "https://github.com/proofprotocol/Fidelity-at-Capture"
   license: CC-BY-ND-4.0
