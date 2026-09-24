@@ -1,0 +1,25 @@
+{
+  "title": "PP-SPEC-023: Structural Independence and the Fidelity-at-Capture Requirement",
+  "upload_type": "publication",
+  "creators": [
+    {
+      "name": "Ellrod, Craig",
+      "affiliation": "Nebulonium, Inc. (HACKERverse)"
+    }
+  ],
+  "description": "PP-SPEC-023: Structural Independence and the Fidelity-at-Capture Requirement",
+  "license": "cc-by-nd-4.0",
+  "access_right": "open",
+  "keywords": [
+    "proof-protocol",
+    "fidelity-at-capture"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/proofprotocol/Fidelity-at-Capture",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "publication_type": "technicalnote"
+}
