@@ -8,7 +8,7 @@
 ## Cite as
 
 Ellrod, C. (2026). PP-SPEC-023: Structural Independence and the Fidelity-at-Capture Requirement.
-Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22821380
+Proof Economy Standards Alliance (PESA). https://doi.org/10.5281/zenodo.22821379
 
 ## Summary
 
